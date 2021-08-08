@@ -1,3 +1,9 @@
-1.git init
-2 git log
-3.git status
+1.git config --global user.name
+2.git config --global user.email
+3.cd D:\....
+4.git init
+5.git add .
+6.vim....
+7.git commit -am ""
+8.git checkout -b
+9.git checkout dev
