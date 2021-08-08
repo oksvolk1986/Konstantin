@@ -7,3 +7,9 @@
 7.git commit -am ""
 8.git checkout -b
 9.git checkout dev
+10.git remote add origin...
+11.git push origin master
+12.git clone...
+13.git merge
+14.git branch -D 
+15.git push origin --delete
